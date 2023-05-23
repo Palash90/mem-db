@@ -1,6 +1,6 @@
 [package]
 name = "mem-db"
-description = "A simple, In-Memory SQL Database."
+description = "(Under development) A simple, In-Memory SQL Database."
 version = "0.0.0"
 edition = "2021"
 authors = ["Palash Kanti Kundu"]
